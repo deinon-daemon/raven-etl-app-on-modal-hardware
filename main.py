@@ -11,9 +11,6 @@ from post2db import write_to_json, write_dicts_to_jsonl
 # Instantiate app and html template
 app = FastAPI()
 
-os.environ['OPENAI_API_KEY'] = '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'
-openai.api_key = os.getenv('OPENAI_API_KEY')
-
 @app.get("/monorun/{ecosystem}")
 def monorun(ecosystem:str, link:str):
     try:
