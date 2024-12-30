@@ -1,0 +1,17 @@
+openai
+sentence-transformers
+transformers
+flair
+trafilatura
+tiktoken
+flair
+pyap
+nltk
+bs4
+urllib3
+duckduckgo_search
+yake
+fastapi
+uvicorn
+gunicorn
+google-cloud-storage
