@@ -1,4 +1,4 @@
-#bcarsley on git -- 08/05/2023 -- "project raven" : a resilient bulk web crawling and xtraction framework for automating the collection of structured text assets from web sources
+# 08/05/2023 -- "project raven" : a resilient bulk web crawling and xtraction framework for automating the collection of structured text assets from web sources
 import os
 import openai
 import time
